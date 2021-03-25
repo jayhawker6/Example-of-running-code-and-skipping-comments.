@@ -57,4 +57,4 @@ while True:
     else:
         print('not an option!')
         continue
-print('Call ended')
+quit('The call was ended')
